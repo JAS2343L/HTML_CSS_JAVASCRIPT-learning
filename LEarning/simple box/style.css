@@ -1,0 +1,22 @@
+.thecont {
+    display: flex;
+    gap: 10px;
+}
+.timepass {
+    background-color:rgb(212, 193, 193);
+    padding: 20px;
+    margin-bottom: 10px;
+    border: 2px solid greenyellow;
+}
+.work{
+    background-color: rgb(64, 21, 21);
+    color: aqua;
+    padding: 20px;
+    border: 4px solid black
+}
+.gaming{
+    background-color: rgb(64, 21, 21);
+    color: aqua;
+    padding: 20px;
+    border: 4px solid black
+}

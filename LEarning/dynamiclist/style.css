@@ -1,0 +1,41 @@
+body {
+    background-color: #121212;
+    color: #ffffff;
+    font-family: sans-serif;
+    display: flex;
+    justify-content: center;
+    padding-top: 50px;
+}
+
+.txt {
+    background-color: #1e1e1e;
+    padding: 30px;
+    border-radius: 14px;
+    border: 1px solid rgb(0, 70, 70);
+    width: 500px;
+}
+
+input {
+    padding: 5px 10px;
+    background-color: rgb(219, 205, 205);
+    border: 0cap solid brown;
+    color: rgb(12, 12, 12);
+    border-radius: 10px;
+}
+
+button {
+    background-color:rgb(24, 26, 26);
+    color: #ffffff;
+    border-radius: 8px;
+}
+
+ul {
+    list-style-type: square;
+    padding-left: 20px;
+    margin-top: 15px;
+}
+
+li {
+    margin-bottom: 8px;
+    color: #00e5ff;
+}
